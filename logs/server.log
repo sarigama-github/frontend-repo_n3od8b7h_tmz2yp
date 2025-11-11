@@ -1,0 +1,16 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 218 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.16.245:3000/
+[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+18 |  }
+19 |  
+20 |  @import './components/ui.css';
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+21 |  
+22 |  /* Animations utilities */
